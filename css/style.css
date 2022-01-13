@@ -1,4 +1,35 @@
-body{
-    background-image: url(img/pattern.png);
-}    
 
+
+.intestazione{
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    background-color:dodgerblue;
+
+}
+
+
+tr {
+    background-color: turquoise;
+}
+
+.colorecella{
+    background-color: white;
+}
+
+.specifiche{
+    background-color: dodgerblue;
+}
+
+.potrebberointeressarti{
+    color: grey;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+   }
+
+.top{
+    
+   }
