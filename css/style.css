@@ -1,22 +1,18 @@
 html{
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .intestazione{
     background-image: url("../img/pattern.png");
-    img {
-        max-width:500px;
-      }
     background-repeat: repeat;
     background-color:dodgerblue;
-
 }
 
 table{
     border-spacing: 0;
     height: 200px;
-    text-align: center;
+    text-align: left;
 }
 tr {
     background-color: turquoise;
@@ -32,7 +28,6 @@ th, td {
 
 .colorecella{
     background-color: white;
-
 }
 
 .specifiche{
